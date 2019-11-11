@@ -7,3 +7,5 @@ Desafios de programação em Python feitos no tempo livre
 
 [The Coding Interview](https://github.com/mre/the-coding-interview)
 
+[Practice](https://github.com/hlissner/practice/)
+
